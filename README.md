@@ -3,7 +3,7 @@
 ## ✨ About Me ✨
 
 -  Passionate newbie programmer with a knack for Python 3.
-- ⚡️ Currently exploring Python 3, Front-end devolopment.
+- ⚡️ Currently exploring Python 3.
 - ☕️ Fueled by Chaya, Coffee and curiosity.
 
 ## ️ Technical Skills ️
